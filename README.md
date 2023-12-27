@@ -1,5 +1,5 @@
 ### Hi there from Amber👋
-- 🔭 I’m currently working on <a href="https://www.nectlc.com/asset_tracking_management.php" target="_blank">AIoT5.0</a>
+- 🔭 I’m currently developing <a href="https://www.nectlc.com/asset_tracking_management.php" target="_blank">AIoT5.0</a>
 - 🌱 I’m currently learning C#, LLM, Java.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning, Internet-of-Things, Generative AI. 
 - 🤔 I’m looking for help with Generative AI, NLP, 
