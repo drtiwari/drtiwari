@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-< hi align="Center"> Hi there, I am Amber Tiwari👋 </hi>
+< hi align="center"> Hi there, I am Amber Tiwari👋 </hi>
 - 🔭 I’m currently working on <a href="https://www.nectlc.com/asset_tracking_management.php" target="_blank">AIoT5.0</a>
 - 🌱 I’m currently learning C#, LLM, Java.
 - 👯 I’m looking to collaborate on Data Science, Machine Learning, Internet-of-Things, Generative AI. 
